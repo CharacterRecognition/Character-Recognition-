@@ -1,0 +1,2 @@
+
+Dataset Link : https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset?select=annot.csv
